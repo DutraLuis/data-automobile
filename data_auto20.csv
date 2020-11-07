@@ -19,24 +19,24 @@ symboling,1016,0
 symboling,1017,0
 symboling,1018,2
 symboling,1019,1
-normalized-losses,1000,?
-normalized-losses,1001,?
-normalized-losses,1002,?
+normalized-losses,1000,missing value
+normalized-losses,1001,missing value
+normalized-losses,1002,missing value
 normalized-losses,1003,164
 normalized-losses,1004,164
-normalized-losses,1005,?
+normalized-losses,1005,missing value
 normalized-losses,1006,158
-normalized-losses,1007,?
+normalized-losses,1007,missing value
 normalized-losses,1008,158
-normalized-losses,1009,?
+normalized-losses,1009,missing value
 normalized-losses,1010,192
 normalized-losses,1011,192
 normalized-losses,1012,188
 normalized-losses,1013,188
-normalized-losses,1014,?
-normalized-losses,1015,?
-normalized-losses,1016,?
-normalized-losses,1017,?
+normalized-losses,1014,missing value
+normalized-losses,1015,missing value
+normalized-losses,1016,missing value
+normalized-losses,1017,missing value
 normalized-losses,1018,121
 normalized-losses,1019,98
 make,1000,alfa-romero
@@ -196,7 +196,7 @@ wheel-base,1013,101.2
 wheel-base,1014,103.5
 wheel-base,1015,103.5
 wheel-base,1016,103.5
-wheel-base,1017,110
+wheel-base,1017,110.0
 wheel-base,1018,88.4
 wheel-base,1019,94.5
 length,1000,168.8
@@ -213,10 +213,10 @@ length,1010,176.8
 length,1011,176.8
 length,1012,176.8
 length,1013,176.8
-length,1014,189
-length,1015,189
+length,1014,189.0
+length,1015,189.0
 length,1016,193.8
-length,1017,197
+length,1017,197.0
 length,1018,141.1
 length,1019,155.9
 width,1000,64.1
@@ -248,7 +248,7 @@ height,1005,53.1
 height,1006,55.7
 height,1007,55.7
 height,1008,55.9
-height,1009,52
+height,1009,52.0
 height,1010,54.3
 height,1011,54.3
 height,1012,54.3
@@ -258,7 +258,7 @@ height,1015,55.7
 height,1016,53.7
 height,1017,56.3
 height,1018,53.2
-height,1019,52
+height,1019,52.0
 curb-weight,1000,2548
 curb-weight,1001,2548
 curb-weight,1002,2823
@@ -399,24 +399,24 @@ stroke,1016,3.39
 stroke,1017,3.39
 stroke,1018,3.03
 stroke,1019,3.11
-compression-ratio,1000,9
-compression-ratio,1001,9
-compression-ratio,1002,9
-compression-ratio,1003,10
-compression-ratio,1004,8
+compression-ratio,1000,9.0
+compression-ratio,1001,9.0
+compression-ratio,1002,9.0
+compression-ratio,1003,10.0
+compression-ratio,1004,8.0
 compression-ratio,1005,8.5
 compression-ratio,1006,8.5
 compression-ratio,1007,8.5
 compression-ratio,1008,8.3
-compression-ratio,1009,7
+compression-ratio,1009,7.0
 compression-ratio,1010,8.8
 compression-ratio,1011,8.8
-compression-ratio,1012,9
-compression-ratio,1013,9
-compression-ratio,1014,9
-compression-ratio,1015,8
-compression-ratio,1016,8
-compression-ratio,1017,8
+compression-ratio,1012,9.0
+compression-ratio,1013,9.0
+compression-ratio,1014,9.0
+compression-ratio,1015,8.0
+compression-ratio,1016,8.0
+compression-ratio,1017,8.0
 compression-ratio,1018,9.5
 compression-ratio,1019,9.6
 horsepower,1000,111
@@ -508,7 +508,7 @@ price,1005,15250
 price,1006,17710
 price,1007,18920
 price,1008,23875
-price,1009,?
+price,1009,missing value
 price,1010,16430
 price,1011,16925
 price,1012,20970
